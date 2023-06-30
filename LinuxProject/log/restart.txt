@@ -1,0 +1,157 @@
+process name: sw_app1	restart count: 0	start time: 2023.06.16 12:35:16.657 	reason: Init.
+process name: sw_app2	restart count: 0	start time: 2023.06.16 12:35:16.670 	reason: Init.
+process name: sw_app3	restart count: 0	start time: 2023.06.16 12:35:16.674 	reason: Init.
+process name: sw_app1	restart count: 0	start time: 2023.06.16 12:35:16.677 	reason: Init.
+process name: sw_app2	restart count: 0	start time: 2023.06.16 12:35:16.680 	reason: Init.
+process name: sw_app3	restart count: 0	start time: 2023.06.16 12:35:16.682 	reason: Init.
+process name: sw_app1	restart count: 0	start time: 2023.06.16 12:35:16.686 	reason: Init.
+process name: sw_app2	restart count: 0	start time: 2023.06.16 12:35:16.691 	reason: Init.
+process name: sw_app3	restart count: 0	start time: 2023.06.16 12:35:16.695 	reason: Init.
+process name: sw_app1	restart count: 1	start time: 2023.06.16 12:35:18.694 	reason: SIGNAL(1).Hangup
+process name: sw_app2	restart count: 1	start time: 2023.06.16 12:35:24.686 	reason: SIGNAL(9).Killed
+process name: sw_app3	restart count: 1	start time: 2023.06.16 12:35:25.689 	reason: EXIT(208)
+process name: sw_app3	restart count: 1	start time: 2023.06.16 12:35:25.740 	reason: EXIT(194)
+process name: sw_app1	restart count: 2	start time: 2023.06.16 12:35:27.700 	reason: EXIT(224)
+process name: sw_app1	restart count: 1	start time: 2023.06.16 12:35:28.980 	reason: SIGNAL(6).Aborted
+process name: sw_app2	restart count: 2	start time: 2023.06.16 12:35:29.690 	reason: EXIT(148)
+process name: sw_app2	restart count: 1	start time: 2023.06.16 12:35:31.677 	reason: EXIT(177)
+process name: sw_app3	restart count: 1	start time: 2023.06.16 12:35:31.683 	reason: EXIT(103)
+process name: sw_app2	restart count: 1	start time: 2023.06.16 12:35:31.698 	reason: EXIT(15)
+process name: sw_app2	restart count: 3	start time: 2023.06.16 12:35:32.097 	reason: SIGNAL(11).Segmentation fault
+process name: sw_app3	restart count: 2	start time: 2023.06.16 12:35:32.686 	reason: EXIT(230)
+process name: sw_app1	restart count: 3	start time: 2023.06.16 12:35:32.720 	reason: EXIT(134)
+process name: sw_app1	restart count: 1	start time: 2023.06.16 12:35:32.950 	reason: SIGNAL(3).Quit
+process name: sw_app3	restart count: 2	start time: 2023.06.16 12:35:33.694 	reason: SIGNAL(9).Killed
+process name: sw_app3	restart count: 3	start time: 2023.06.16 12:35:35.031 	reason: SIGNAL(6).Aborted
+process name: sw_app2	restart count: 4	start time: 2023.06.16 12:35:35.099 	reason: EXIT(159)
+process name: sw_app1	restart count: 2	start time: 2023.06.16 12:35:35.337 	reason: SIGNAL(3).Quit
+process name: sw_app2	restart count: 5	start time: 2023.06.16 12:35:36.102 	reason: EXIT(4)
+process name: sw_app2	restart count: 6	start time: 2023.06.16 12:35:40.456 	reason: SIGNAL(7).Bus error
+process name: sw_app2	restart count: 2	start time: 2023.06.16 12:35:42.701 	reason: EXIT(41)
+process name: sw_app3	restart count: 4	start time: 2023.06.16 12:35:43.290 	reason: SIGNAL(4).Illegal instruction
+process name: sw_app1	restart count: 4	start time: 2023.06.16 12:35:43.724 	reason: EXIT(103)
+process name: sw_app1	restart count: 2	start time: 2023.06.16 12:35:43.961 	reason: EXIT(71)
+process name: sw_app2	restart count: 2	start time: 2023.06.16 12:35:44.681 	reason: EXIT(198)
+process name: sw_app3	restart count: 2	start time: 2023.06.16 12:35:45.744 	reason: SIGNAL(15).Terminated
+process name: sw_app3	restart count: 5	start time: 2023.06.16 12:35:46.294 	reason: EXIT(181)
+process name: sw_app3	restart count: 3	start time: 2023.06.16 12:35:46.749 	reason: EXIT(32)
+process name: sw_app1	restart count: 3	start time: 2023.06.16 12:35:50.340 	reason: EXIT(227)
+process name: sw_app3	restart count: 3	start time: 2023.06.16 12:35:51.699 	reason: SIGNAL(9).Killed
+process name: sw_app1	restart count: 5	start time: 2023.06.16 12:35:54.731 	reason: EXIT(69)
+process name: sw_app1	restart count: 3	start time: 2023.06.16 12:35:54.966 	reason: EXIT(155)
+process name: sw_app2	restart count: 3	start time: 2023.06.16 12:35:55.685 	reason: EXIT(91)
+process name: sw_app3	restart count: 4	start time: 2023.06.16 12:35:55.702 	reason: SIGNAL(2).Interrupt
+process name: sw_app2	restart count: 3	start time: 2023.06.16 12:35:57.017 	reason: SIGNAL(7).Bus error
+process name: sw_app2	restart count: 7	start time: 2023.06.16 12:35:57.459 	reason: EXIT(34)
+process name: sw_app3	restart count: 4	start time: 2023.06.16 12:35:57.752 	reason: EXIT(43)
+process name: sw_app2	restart count: 8	start time: 2023.06.16 12:36:01.464 	reason: SIGNAL(2).Interrupt
+process name: sw_app3	restart count: 6	start time: 2023.06.16 12:36:02.510 	reason: SIGNAL(8).Floating point exception
+process name: sw_app2	restart count: 4	start time: 2023.06.16 12:36:03.286 	reason: SIGNAL(8).Floating point exception
+process name: sw_app1	restart count: 4	start time: 2023.06.16 12:36:05.346 	reason: EXIT(131)
+process name: sw_app1	restart count: 6	start time: 2023.06.16 12:36:05.737 	reason: EXIT(55)
+process name: sw_app3	restart count: 7	start time: 2023.06.16 12:36:06.816 	reason: SIGNAL(7).Bus error
+process name: sw_app2	restart count: 9	start time: 2023.06.16 12:36:07.468 	reason: SIGNAL(13).Broken pipe
+process name: sw_app3	restart count: 5	start time: 2023.06.16 12:36:10.026 	reason: SIGNAL(7).Bus error
+process name: sw_app1	restart count: 5	start time: 2023.06.16 12:36:10.349 	reason: EXIT(218)
+process name: sw_app1	restart count: 7	start time: 2023.06.16 12:36:10.745 	reason: EXIT(56)
+process name: sw_app2	restart count: 10	start time: 2023.06.16 12:36:12.472 	reason: EXIT(36)
+process name: sw_app2	restart count: 4	start time: 2023.06.16 12:36:12.689 	reason: EXIT(66)
+process name: sw_app3	restart count: 5	start time: 2023.06.16 12:36:13.954 	reason: SIGNAL(8).Floating point exception
+process name: sw_app1	restart count: 4	start time: 2023.06.16 12:36:13.971 	reason: EXIT(127)
+process name: sw_app3	restart count: 6	start time: 2023.06.16 12:36:14.956 	reason: EXIT(10)
+process name: sw_app1	restart count: 0	start time: 2023.06.16 12:36:28.631 	reason: Init.
+process name: sw_app2	restart count: 0	start time: 2023.06.16 12:36:28.639 	reason: Init.
+process name: sw_app3	restart count: 0	start time: 2023.06.16 12:36:28.661 	reason: Init.
+process name: sw_app1	restart count: 0	start time: 2023.06.16 12:36:28.670 	reason: Init.
+process name: sw_app2	restart count: 0	start time: 2023.06.16 12:36:28.679 	reason: Init.
+process name: sw_app3	restart count: 0	start time: 2023.06.16 12:36:28.687 	reason: Init.
+process name: sw_app1	restart count: 0	start time: 2023.06.16 12:36:28.698 	reason: Init.
+process name: sw_app2	restart count: 0	start time: 2023.06.16 12:36:28.703 	reason: Init.
+process name: sw_app3	restart count: 0	start time: 2023.06.16 12:36:28.707 	reason: Init.
+process name: sw_app1	restart count: 1	start time: 2023.06.16 12:36:29.707 	reason: EXIT(122)
+process name: sw_app1	restart count: 1	start time: 2023.06.16 12:36:31.644 	reason: EXIT(227)
+process name: sw_app2	restart count: 1	start time: 2023.06.16 12:36:31.663 	reason: EXIT(59)
+process name: sw_app3	restart count: 1	start time: 2023.06.16 12:36:33.035 	reason: SIGNAL(7).Bus error
+process name: sw_app2	restart count: 1	start time: 2023.06.16 12:36:37.711 	reason: EXIT(144)
+process name: sw_app2	restart count: 2	start time: 2023.06.16 12:36:39.671 	reason: SIGNAL(9).Killed
+process name: sw_app3	restart count: 1	start time: 2023.06.16 12:36:39.696 	reason: EXIT(225)
+process name: sw_app3	restart count: 1	start time: 2023.06.16 12:36:41.042 	reason: SIGNAL(11).Segmentation fault
+process name: sw_app1	restart count: 2	start time: 2023.06.16 12:36:42.646 	reason: EXIT(175)
+process name: sw_app1	restart count: 2	start time: 2023.06.16 12:36:42.710 	reason: EXIT(70)
+process name: sw_app2	restart count: 1	start time: 2023.06.16 12:36:45.005 	reason: SIGNAL(8).Floating point exception
+process name: sw_app1	restart count: 3	start time: 2023.06.16 12:36:46.713 	reason: SIGNAL(12).User defined signal 2
+process name: sw_app3	restart count: 2	start time: 2023.06.16 12:36:48.039 	reason: EXIT(141)
+process name: sw_app1	restart count: 1	start time: 2023.06.16 12:36:48.685 	reason: SIGNAL(15).Terminated
+process name: sw_app3	restart count: 2	start time: 2023.06.16 12:36:50.048 	reason: EXIT(70)
+process name: sw_app1	restart count: 4	start time: 2023.06.16 12:36:50.718 	reason: SIGNAL(12).User defined signal 2
+process name: sw_app3	restart count: 3	start time: 2023.06.16 12:36:52.249 	reason: SIGNAL(11).Segmentation fault
+process name: sw_app1	restart count: 3	start time: 2023.06.16 12:36:53.654 	reason: EXIT(41)
+process name: sw_app3	restart count: 2	start time: 2023.06.16 12:36:54.699 	reason: EXIT(61)
+process name: sw_app2	restart count: 2	start time: 2023.06.16 12:36:54.719 	reason: EXIT(186)
+process name: sw_app3	restart count: 3	start time: 2023.06.16 12:36:55.042 	reason: EXIT(235)
+process name: sw_app1	restart count: 4	start time: 2023.06.16 12:36:55.658 	reason: SIGNAL(1).Hangup
+process name: sw_app2	restart count: 3	start time: 2023.06.16 12:36:57.677 	reason: SIGNAL(9).Killed
+process name: sw_app1	restart count: 2	start time: 2023.06.16 12:36:59.688 	reason: EXIT(137)
+process name: sw_app3	restart count: 4	start time: 2023.06.16 12:37:01.054 	reason: SIGNAL(13).Broken pipe
+process name: sw_app3	restart count: 3	start time: 2023.06.16 12:37:01.710 	reason: EXIT(201)
+process name: sw_app2	restart count: 2	start time: 2023.06.16 12:37:02.014 	reason: EXIT(154)
+process name: sw_app3	restart count: 4	start time: 2023.06.16 12:37:04.715 	reason: EXIT(63)
+process name: sw_app3	restart count: 4	start time: 2023.06.16 12:37:04.760 	reason: SIGNAL(11).Segmentation fault
+process name: sw_app1	restart count: 5	start time: 2023.06.16 12:37:05.728 	reason: EXIT(57)
+process name: sw_app2	restart count: 4	start time: 2023.06.16 12:37:06.688 	reason: EXIT(6)
+process name: sw_app2	restart count: 3	start time: 2023.06.16 12:37:08.723 	reason: SIGNAL(2).Interrupt
+process name: sw_app1	restart count: 6	start time: 2023.06.16 12:37:08.751 	reason: EXIT(155)
+process name: sw_app3	restart count: 5	start time: 2023.06.16 12:37:09.054 	reason: SIGNAL(7).Bus error
+process name: sw_app2	restart count: 5	start time: 2023.06.16 12:37:09.694 	reason: EXIT(231)
+process name: sw_app1	restart count: 5	start time: 2023.06.16 12:37:10.666 	reason: EXIT(215)
+process name: sw_app3	restart count: 5	start time: 2023.06.16 12:37:11.060 	reason: SIGNAL(15).Terminated
+process name: sw_app2	restart count: 3	start time: 2023.06.16 12:37:13.020 	reason: EXIT(187)
+process name: sw_app1	restart count: 3	start time: 2023.06.16 12:37:15.696 	reason: SIGNAL(13).Broken pipe
+process name: sw_app1	restart count: 7	start time: 2023.06.16 12:37:15.808 	reason: EXIT(39)
+process name: sw_app3	restart count: 5	start time: 2023.06.16 12:37:17.772 	reason: EXIT(60)
+process name: sw_app3	restart count: 6	start time: 2023.06.16 12:37:18.059 	reason: EXIT(48)
+process name: sw_app2	restart count: 4	start time: 2023.06.16 12:37:19.376 	reason: SIGNAL(3).Quit
+process name: sw_app1	restart count: 6	start time: 2023.06.16 12:37:19.686 	reason: EXIT(132)
+process name: sw_app3	restart count: 7	start time: 2023.06.16 12:37:24.446 	reason: SIGNAL(3).Quit
+process name: sw_app2	restart count: 4	start time: 2023.06.16 12:37:25.764 	reason: EXIT(156)
+process name: sw_app1	restart count: 8	start time: 2023.06.16 12:37:26.223 	reason: SIGNAL(5).Trace/breakpoint trap
+process name: sw_app2	restart count: 6	start time: 2023.06.16 12:37:26.299 	reason: SIGNAL(3).Quit
+process name: sw_app2	restart count: 5	start time: 2023.06.16 12:37:26.766 	reason: EXIT(116)
+process name: sw_app3	restart count: 6	start time: 2023.06.16 12:37:30.080 	reason: EXIT(75)
+process name: sw_app1	restart count: 4	start time: 2023.06.16 12:37:30.706 	reason: EXIT(129)
+process name: sw_app3	restart count: 8	start time: 2023.06.16 12:37:30.915 	reason: SIGNAL(8).Floating point exception
+process name: sw_app1	restart count: 7	start time: 2023.06.16 12:37:31.939 	reason: SIGNAL(11).Segmentation fault
+process name: sw_app3	restart count: 6	start time: 2023.06.16 12:37:34.819 	reason: EXIT(88)
+process name: sw_app3	restart count: 9	start time: 2023.06.16 12:37:35.925 	reason: EXIT(132)
+process name: sw_app1	restart count: 5	start time: 2023.06.16 12:37:37.711 	reason: EXIT(97)
+process name: sw_app2	restart count: 5	start time: 2023.06.16 12:37:39.384 	reason: SIGNAL(15).Terminated
+process name: sw_app2	restart count: 6	start time: 2023.06.16 12:37:40.772 	reason: SIGNAL(12).User defined signal 2
+process name: sw_app2	restart count: 7	start time: 2023.06.16 12:37:44.608 	reason: SIGNAL(4).Illegal instruction
+process name: sw_app1	restart count: 9	start time: 2023.06.16 12:37:45.226 	reason: EXIT(141)
+process name: sw_app3	restart count: 7	start time: 2023.06.16 12:37:48.087 	reason: SIGNAL(14).Alarm clock
+process name: sw_app2	restart count: 8	start time: 2023.06.16 12:37:48.619 	reason: SIGNAL(12).User defined signal 2
+process name: sw_app1	restart count: 8	start time: 2023.06.16 12:37:50.941 	reason: EXIT(67)
+process name: sw_app2	restart count: 6	start time: 2023.06.16 12:37:51.396 	reason: SIGNAL(1).Hangup
+process name: sw_app1	restart count: 10	start time: 2023.06.16 12:37:51.670 	reason: SIGNAL(3).Quit
+process name: sw_app3	restart count: 7	start time: 2023.06.16 12:37:51.821 	reason: EXIT(204)
+process name: sw_app1	restart count: 6	start time: 2023.06.16 12:37:54.726 	reason: EXIT(110)
+process name: sw_app3	restart count: 10	start time: 2023.06.16 12:37:54.934 	reason: EXIT(5)
+process name: sw_app2	restart count: 7	start time: 2023.06.16 12:37:57.775 	reason: EXIT(114)
+process name: sw_app3	restart count: 8	start time: 2023.06.16 12:37:57.826 	reason: SIGNAL(13).Broken pipe
+process name: sw_app1	restart count: 9	start time: 2023.06.16 12:37:58.948 	reason: SIGNAL(14).Alarm clock
+process name: sw_app1	restart count: 7	start time: 2023.06.16 12:37:59.729 	reason: EXIT(214)
+process name: sw_app3	restart count: 8	start time: 2023.06.16 12:38:00.313 	reason: SIGNAL(6).Aborted
+process name: sw_app2	restart count: 9	start time: 2023.06.16 12:38:01.621 	reason: EXIT(40)
+process name: sw_app2	restart count: 8	start time: 2023.06.16 12:38:04.058 	reason: SIGNAL(3).Quit
+process name: sw_app2	restart count: 7	start time: 2023.06.16 12:38:05.399 	reason: SIGNAL(2).Interrupt
+process name: sw_app3	restart count: 9	start time: 2023.06.16 12:38:05.985 	reason: SIGNAL(4).Illegal instruction
+process name: sw_app2	restart count: 10	start time: 2023.06.16 12:38:06.625 	reason: EXIT(246)
+process name: sw_app2	restart count: 9	start time: 2023.06.16 12:38:09.060 	reason: EXIT(174)
+process name: sw_app3	restart count: 10	start time: 2023.06.16 12:38:09.989 	reason: SIGNAL(2).Interrupt
+process name: sw_app1	restart count: 11	start time: 2023.06.16 12:38:11.674 	reason: SIGNAL(15).Terminated
+process name: sw_app1	restart count: 8	start time: 2023.06.16 12:38:12.026 	reason: SIGNAL(11).Segmentation fault
+process name: sw_app1	restart count: 12	start time: 2023.06.16 12:38:13.960 	reason: SIGNAL(6).Aborted
+process name: sw_app3	restart count: 11	start time: 2023.06.16 12:38:15.260 	reason: SIGNAL(5).Trace/breakpoint trap
+process name: sw_app3	restart count: 9	start time: 2023.06.16 12:38:15.326 	reason: EXIT(65)
+process name: sw_app3	restart count: 11	start time: 2023.06.16 12:38:16.997 	reason: EXIT(219)
+process name: sw_app1	restart count: 10	start time: 2023.06.16 12:38:17.399 	reason: SIGNAL(4).Illegal instruction
